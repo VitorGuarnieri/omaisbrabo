@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+.T {
+    text-align: center;
+   
+    
+}
+.L{
+ text-align: left;
+ position: absolute;
+ left: 10%;
+ margin-top: -2%;
+}
+.E{
+text-align: right;
+position: absolute;
+right: 10%;
+margin-top: -2%;
+
+}
+header{
+    background-color: aqua;
+    width: 1900px;
+    height: 500px;
+    
+}
+.CRF{
+    position:relative;
+   left: 33%;
+    width: 30%;
+    
+}
+.S{
+
+    background: -moz-linear-gradient(blue, aqua);
+    width: 1900px;
+    height: 1000px;
+}
