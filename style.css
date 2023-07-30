@@ -1,41 +1,61 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0%;
-    padding: 0%;
+.H{
+    background: linear-gradient(blue, aqua );
+    height: auto;
+    margin-top: -4%;
 }
-.T {
+
+
+.T{
     text-align: center;
-   
-    
+    font-size: 150%;
+    font-style: inherit;
+
 }
 .L{
- text-align: left;
- position: absolute;
- left: 10%;
- margin-top: -2%;
+    position: absolute;
+    left: 10%;
+   font-size: 130%;
+   margin-top: -10%;
+   font-style:inherit ;
 }
 .E{
-text-align: right;
-position: absolute;
-right: 10%;
-margin-top: -2%;
-
+    position: absolute;
+    right: 10%;
+    font-size: 130%;
+  margin-top: -10%;
+  font-style: inherit;
 }
-header{
-    background-color: aqua;
-    width: 1900px;
-    height: 500px;
-    
+.D{
+    width: 34%;
 }
-.CRF{
-    position:relative;
-   left: 33%;
+.K{
     width: 30%;
-    
+    position: relative;
+    right: -30%;
 }
-.S{
+.MH{
+    background-color: red;
+    text-align: center;
+    font-size: 130%;
+    width: 30%;
+    position: relative;
+    right: -33%;
+    margin-top: -20%;
+}
+.MK{
+    background-color:green;
+    text-align: center;
+    font-size: 130%;
+    width: 30%;
+    position: relative;
+    right: -33%;
 
-    background: -moz-linear-gradient(blue, aqua);
-    width: 1900px;
-    height: 1000px;
+}
+.MT{
+    background-color:orangered;
+    text-align: center;
+    font-size: 130%;
+    width: 30%;
+    position: relative;
+    right: -33%;
 }
