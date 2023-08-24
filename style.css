@@ -1,61 +1,112 @@
 .H{
-    background: linear-gradient(blue, aqua );
-    height: auto;
-    margin-top: -4%;
+    display: flex;
+    justify-content: space-around;
+    background-color: aqua;
+    clear:both ;
+    position: relative;
+    margin-top: -2%;
+    left: 0%;
+    right: 0%;
 }
+.cap{
+    width: 35%;
+}
+.cap1{
+    width: 35%;
+}
+.VM{
+    font-size: 130%;
+}
+.S1{
+background-color: red;
+position: relative;
+margin-top: -5%;
+right: 0%;
+left: 0%;
 
 
-.T{
-    text-align: center;
+}
+.CRF{
+    width: 50%;
+    position: relative;
+    left: 5%;
+}
+.T1{
     font-size: 150%;
-    font-style: inherit;
+}
+.S2{
+    background-color: chocolate;
+   position: relative;
+   margin-top: -5%;
+   left: 0%;
+   right: 0%;
+   
 
 }
-.L{
-    position: absolute;
-    left: 10%;
-   font-size: 130%;
-   margin-top: -10%;
-   font-style:inherit ;
-}
-.E{
-    position: absolute;
-    right: 10%;
-    font-size: 130%;
-  margin-top: -10%;
-  font-style: inherit;
-}
-.D{
-    width: 34%;
-}
-.K{
-    width: 30%;
+.KTM{
+    width: 50%;
     position: relative;
-    right: -30%;
+    left: 5%;
 }
-.MH{
-    background-color: red;
-    text-align: center;
-    font-size: 130%;
-    width: 30%;
-    position: relative;
-    right: -33%;
-    margin-top: -20%;
+.T2{
+    font-size: 150%;
 }
-.MK{
-    background-color:green;
-    text-align: center;
-    font-size: 130%;
-    width: 30%;
+.S3{
+    background-color: darkgreen;
     position: relative;
-    right: -33%;
+    margin-top: -5%;
+    left: 0%;
+    right: 0%;
+
 
 }
-.MT{
-    background-color:orangered;
-    text-align: center;
-    font-size: 130%;
-    width: 30%;
+.KAW{
+    width: 50%;
     position: relative;
-    right: -33%;
+    left: 5%;
+}
+.T3{
+    font-size: 150%;
+  
+}
+.F{
+    background-color: aqua;
+    height: 250px;
+    position: relative;
+    margin-top: -5%;
+    left: 0%;
+    right: 0%;
+}
+.P{
+    
+    font-size: 127%;
+    position:absolute ;
+    margin-top: 5%;
+    left: 5%;
+  
+   
+
+    
+}
+.C{
+    position: absolute;
+    margin-top: 15%;
+    font-size: 127%;
+    left: 5%;
+   
+}
+.cap2{
+    position: relative;
+    top: -7%;
+left: 67%;
+    width: 40%;
+}
+.PKT{
+    background-color: white;
+}
+.PH{
+    background-color: white;
+}
+.PW{
+    background-color: white;
 }
